@@ -1,8 +1,8 @@
 {
-  "name": "{{ name }}",
+  "name": "project",
   "version": "1.0.0",
-  "description": "{{ description }}",
-  "author": "{{ author }}",
+  "description": "a blink project created by blink-cli",
+  "author": "xiaohuajun@bilibili.com",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
